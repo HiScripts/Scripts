@@ -31,7 +31,7 @@ local Tab = Window:CreateTab("Gui Destroyer", 4483362458) -- Title, Image
 local Section = Tab:CreateSection("Destroyer")
 
 local Button = Tab:CreateButton({
-   Name = "Button Example",
+   Name = "Tap Here Bro",
    Callback = function()
 Rayfield:Destroy()
    -- The function that takes place when the button is pressed
